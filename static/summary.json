@@ -1,0 +1,62 @@
+{
+  "group_name": "Bright Scholarship 146",
+  "date_range": {
+    "start": "2025-02-09",
+    "end": "2026-03-07"
+  },
+  "total_messages": 1944,
+  "total_senders": 3,
+  "total_words": 16968,
+  "avg_msg_per_day": 4.96,
+  "media_messages": 2,
+  "peak_hour": 14,
+  "peak_day": "Wednesday",
+  "peak_month": "2026-01",
+  "busiest_date": "2026-01-21",
+  "sender_stats": {
+    "Admin B": {
+      "messages": 963,
+      "words": 8388,
+      "avg_words": 8.71,
+      "media": 1
+    },
+    "Admin A": {
+      "messages": 980,
+      "words": 8576,
+      "avg_words": 8.75,
+      "media": 1
+    },
+    "Member 3": {
+      "messages": 1,
+      "words": 4,
+      "avg_words": 4.0,
+      "media": 0
+    }
+  },
+  "keyword_totals": {
+    "Scholarship": 614,
+    "Fully Funded": 1137,
+    "Fellowship": 123,
+    "Internship": 140,
+    "Visa / Jobs": 39,
+    "PhD / Masters": 72,
+    "University": 605
+  },
+  "country_mentions": {
+    "USA": 148,
+    "Canada": 136,
+    "China": 128,
+    "Germany": 113,
+    "Australia": 113,
+    "UK": 99,
+    "Japan": 96,
+    "Italy": 57,
+    "Netherlands": 37,
+    "Taiwan": 34,
+    "Turkey": 30,
+    "South Korea": 29,
+    "France": 28,
+    "Singapore": 20,
+    "Malaysia": 6
+  }
+}
